@@ -1,4 +1,4 @@
-Musical Performance Anxiety VRTraining Study at the University of Pécs, Faculty of Music and Visual Arts, Institute of Music, Pécs
+## Music Performance Anxiety VRTraining Study at the University of Pécs, Faculty of Music and Visual Arts, Institute of Music, Pécs
 
 Musical Performance Anxiety (MPA) is a serious challenge for many music performance students and professionals as well. 
 One popular treatment for some types of anxiety and phobias is exposure therapy, which gradually increases the level of "threat" to the patients 
