@@ -11,5 +11,5 @@ the virtual exam situation during these practice session, while control group me
 We measured their heart rate and breathing rate with Hexoskin smartshirts (https://hexoskin.com/) 3 times: a 5 minute resting state, a baseline session, 
 where they played the exam pieces and finally during the exam performance. 
 
-The raw ECG and respiration signals were downloaded from Hexoskin's dasboard. This repo is for sharing data and the analysis codes. The data creation, manipulation, signal processing 
+The raw ECG and respiration signals were downloaded from Hexoskin's dashboard. This repo is for sharing data and the analysis codes. The data creation, manipulation, signal processing 
 and tryouts/tests are mostly for presentation. The actual analyses are the data_analysis.ipynb and Vrtraining_with_pymer4.ipynb files.
